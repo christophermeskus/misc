@@ -6,7 +6,7 @@ int main()
   double num2;
   double result;
 
-  printf("\nEnter an operator (+ - * /): ");
+  printf("\nEnter your chosen operator (+ - * /): ");
   scanf("%c", &operator);
   printf("\nEnter number 1: ");
   scanf("%lf", &num1);
